@@ -1,0 +1,4 @@
+parameter_names,fit_parameters,Date,RelHumidity
+init,0.01,2026-04-09,1
+LP_Mortality.alpha1,-2.514493709671852,2026-04-09,1
+LP_Mortality.beta1,-4.457398864610944,2026-04-09,1
